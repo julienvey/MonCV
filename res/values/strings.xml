@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Cv - @julienvey</string>
+    <string name="apropos">Bienvenue sur cette application. Je suis Julien Vey, consultant Java/JEE chez Zenika à Paris, et passionné d\'informatique. Ayant toujours envie d\'apprendre, j\'ai décidé il y a quelques temps de m\'essayer au développement android. Après un petit tour à la Fnac et un ouvrage sur le développement Android dans la poche, je me suis demandé qu\'est-ce que je pouvais faire pour apprendre à développer des applications. Lorsque j\'apprends de nouvelles technos ou de nouveaux langages, je préfère développer une application Utile, du moins qui a un minimum de sens, plutôt que de suivre &quot;idiotement&quot; le premier tuto Hello World sur lequel je pourrais tomber. Voilà d\'où m\'est venu l\'idée de développer mon application CV et pour pousser l\'expérience jusqu\'au bout, la rendre disponible sur l\'Android Market. </string>
+</resources>

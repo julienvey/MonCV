@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Novembre 2010 - Aujourd'hui :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="General Electric - Real Estate"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Développement d'une application de MDM (Master Data Management) : Spring 3, Hibernate, GWT, JBPM, Tomcat, Scrum, Ant, Git" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Octobre 2010 - Novembre 2010 :"
+                android:textStyle="bold"
+                android:paddingTop="8dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="General Electric - Real Estate"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Développement d'un prototype d'application Web mobile et hors-ligne s'interfaçant avec le système de MDM (Master Data Management) : GWT, HTML5, CSS3, Javascript, JQTouch" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Octobre 2010 - Aujourd'hui :"
+                android:textStyle="bold"
+                android:paddingTop="8dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Zenika"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Missions de conseils et réalisation dans les technologies Java/JEE" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mars 2010 - Septembre 2010 :"
+                android:textStyle="bold"
+                android:paddingTop="8dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Bull"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Développement d'un module de découverte d’infrastructure pour JASMINe Monitoring, outil d'administration d'architectures SOA et de serveurs J2EE. : Java/J2EE, OSGI, Distributed OSGI, Maven, Flex 3, GraniteDS, Cairngorm, JOnAS" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Juin 2009 - Septembre 2009 :"
+                android:textStyle="bold"
+                android:paddingTop="8dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="INRIA"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Développement d'une application permettant l'observation de programmes parallèles OpenMP s'exécutant sur des systèmes embarqués multicoeurs  : OpenMP, Parallélisme, Systèmes embarqués" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Avril 2007 - Juillet 2007 :"
+                android:textStyle="bold"
+                android:paddingTop="8dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Université d'Oklahoma (Etats-Unis)"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Etude, configuration et mise à niveau du réseau d’un bâtiment de l’université : Architecture réseau, configuration, déploiement" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

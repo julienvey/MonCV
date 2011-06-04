@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Languages :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Java, C/C++, Ada, OCaml, Tcl/Tk, XML, ActionScript" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Environnements de développement :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Eclipse, Netbeans" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Architecture et frameworks :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="OSGI/Distributed OSGI, Java EE (JSP, Servlets, EJB3), Spring, Hibernate, JPA, RMI, GraniteDS, Cairngorm" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="SOA :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Clustering, WebServices (CXF), ESB, REST, Workflow/BPM (JBPM)" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Technologies Web :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="JSF, JSP/Servlet, HTML/HTML5, CSS/CSS3, JavaScript, PHP" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Technologies RIA :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="GWT, Flex" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Technologies client riche :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Swing" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Serveurs d'applications :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Tomcat, Jetty, Glassfish, JOnAS" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Base de données :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Oracle, MySQL, PostgreSQL" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Systèmes :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Linux, Windows" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Usine logicielle :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Maven, Ant, Hudson, Bamboo, Subversion (SVN), Git" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Modélisation :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="UML" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Serveurs web :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Apache HTTP" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Méthodologie :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Scrum" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Réseaux :"
+                android:textStyle="bold"
+                android:paddingTop="5dip" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Protocoles (IPv4/v6, TCP/IP, UDP, DNS, FTP), Routage (RIP/OSPF/BGP), formation CISCO. Sécurité et administration. Réseaux mobiles, réseaux de capteurs" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
